@@ -1,6 +1,6 @@
 # Curious Coders
 
-Curious Coders is a video podcast series by @RichStone and @bouwe77.
+Curious Coders is a video podcast series by [Rich](https://github.com/richstone) and [Bouwe](https://github.com/bouwe77).
 
 # Topics
 
